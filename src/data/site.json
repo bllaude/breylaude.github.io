@@ -1,7 +1,7 @@
 {
   "name": "Reasonable Performance",
   "description": "Brey Laude's website",
-  "url": "https://blaude.netlify.app",
+  "url": "https://blog.breylaude.com",
   "author": {
     "name": "Brey Laude",
     "email": "laude822@gmail.com",
@@ -12,11 +12,6 @@
     {
       "text": "Posts",
       "url": "/blog",
-      "external": false
-    },
-    {
-      "text": "About",
-      "url": "/about",
       "external": false
     }
   ],
