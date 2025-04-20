@@ -10,13 +10,11 @@ There’s this annoying thing I’ve noticed. It happens often enough that I can
 
 In the Philippines, I know lots of people who think humility is about looking plain. At first, I thought maybe they just love to copy those Chinese business owners in the area.
 
-If you wear something nice — something that fits you well, something you clearly put thought into — it raises eyebrows. You become that person. You get judged without saying a word.
-
-It’s strange.
+I mean, it's strange, If you wear something nice — something that fits you well, something you clearly put thought into — it raises eyebrows. You become that person. You get judged without saying a word.
 
 I always thought humility was about how you treat people. Whether you think you’re better than them. Whether you make space for others. Whether you listen. Not what kind of shoes you’re wearing.
 
-But here, there’s this blurred line. People talk about “being simple” like it’s some kind of fucking virtue. But it’s not about simplicity — it’s about visibility. Don’t stand out too much. Don’t look too polished. Don’t look like you care too much. Because if you do, people might think you’re trying to be above them.
+But here, there’s this blurred line. People talk about “being simple” like it’s some kind of a fucking virtue. But it’s not about simplicity — it’s about visibility. Don’t stand out too much. Don’t look too polished. Don’t look like you care too much. Because if you do, people might think you’re trying to be above them.
 
 That’s the part that pisses me off.
 
