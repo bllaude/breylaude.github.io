@@ -6,11 +6,11 @@ description:
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-There’s this annoying thing I’ve noticed. It happens often enough that I can’t ignore it anymore.
+There’s this annoying thing I’ve noticed. It happens often enough that I find it hard to ignore anymore.
 
-In the Philippines, I know lots of people who think humility is about looking plain. 
+I've seen huge amount of people who think humility is about looking plain/shit/poor.
 
-At first, I thought maybe they just love to copy those Chinese business owners in the area. (No offense)
+At first, one person or two, I thought maybe they just love to copy those Chinese business owners in the area. (No offense). But then they turned into groups, and worse, it became like some kind of a stupid ideology.
 
 I mean, it's strange, If you wear something nice — something that fits you well, something you clearly put thought into — it raises eyebrows. You become that person. You get judged without saying a word.
 
