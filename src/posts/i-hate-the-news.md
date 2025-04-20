@@ -1,7 +1,7 @@
 ---
 title: I hate the news
 date: '2025-04-13'
-tags: [administrativia]
+tags: []
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---
