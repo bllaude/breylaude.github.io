@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 'The Singularity is Nearer'
+title: 'Reasonable Performance'
 ---
 
 # Hello World

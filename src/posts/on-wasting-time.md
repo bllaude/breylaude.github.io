@@ -20,4 +20,3 @@ As I thought about it, I realized that as you go through life, there are things 
 I’m not sure I have it all figured out, but my personal opinion is that there’s no such thing as *"wasting time."* Like its stupid, wasting time is great, this is the point of time, to waste. 
 
 But I’ll add one caveat to that: Don’t fall in funnels, if you are in other people’s funnels, don’t be in skinner boxes, and don’t be influenced by advertising.
-
