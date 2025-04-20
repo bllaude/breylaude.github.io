@@ -1,5 +1,5 @@
 ---
-title: Humility is not about looking poor (Apparently)
+title: Humility is not about looking poor (apparently)
 date: '2025-04-19'
 tags: []
 description: 
@@ -8,7 +8,9 @@ permalink: posts/{{ title | slug }}/index.html
 
 There’s this annoying thing I’ve noticed. It happens often enough that I can’t ignore it anymore.
 
-In the Philippines, I know lots of people who think humility is about looking plain. At first, I thought maybe they just love to copy those Chinese business owners in the area.
+In the Philippines, I know lots of people who think humility is about looking plain. 
+
+At first, I thought maybe they just love to copy those Chinese business owners in the area. (No offense)
 
 I mean, it's strange, If you wear something nice — something that fits you well, something you clearly put thought into — it raises eyebrows. You become that person. You get judged without saying a word.
 
