@@ -8,7 +8,7 @@ permalink: posts/{{ title | slug }}/index.html
 
 There’s this annoying thing I’ve noticed. It happens often enough that I can’t ignore it anymore.
 
-In the Philippines, I know lots of people who think humility is about looking plain.
+In the Philippines, I know lots of people who think humility is about looking plain. At first, I thought maybe they just love to copy those Chinese business owners in the area.
 
 If you wear something nice — something that fits you well, something you clearly put thought into — it raises eyebrows. You become that person. You get judged without saying a word.
 
@@ -24,7 +24,7 @@ Because sometimes people just want to wear something they fucking like. Sometime
 
 But the moment you do that, you’re read a certain way. Not based on your actions. Not based on how you treat people. But based on how you look.
 
-## Don't confuse humility with being frugality
+## Don't confuse humility with frugality
 This is where everything goes to shit.
 
 People confuse humility with frugality. And they confuse frugality with virtue. They’ve tied them together like some fucked-up logic that makes no sense.
