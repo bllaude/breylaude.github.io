@@ -6,7 +6,7 @@ description:
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Some people start their day with the goddamn radio. Others wind down with the evening news. Some mindlessly scroll through social media, while others stay *“informed”* by watching YouTube channels like CNN. There are even those who get breaking news alerts blasted straight to their phones like it’s some ritual. And they all seem to agree that keeping up with the news is every citizen’s solemn duty. Everyone, except for me.
+Some people start their day with the radio. Others wind down with the evening news. Some mindlessly scroll through social media, while others stay *“informed”* by watching YouTube channels like CNN. There are even those who get breaking news alerts blasted straight to their phones like it’s some ritual. And they all seem to agree that keeping up with the news is every citizen’s solemn duty. Everyone, except for me.
 
 Some people kind of share my view — at least halfway. They’ll bash cable news for its obsession with gruesome crimes, its horse-race political bullshit, and its endless stream of PR-flavored garbage. But they still think the system can be fixed. Hell no. Honestly, I don’t think there’s anything left worth saving.
 
