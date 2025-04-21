@@ -3,14 +3,15 @@ title: My Favorite Programming Pattern
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2022-01-18'
-tags: [programming]
+tags: []
 ---
 
-So at work we were talking about interviewer questions for fresh graduates, and one of them was the standard simple test to weed out the ones who *faked it 'til they made it*. It went something like this:
+So at work we were talking about interviewer questions for fresh graduates, and one of them was the standard test to weed out those who *faked it 'til they made it*. It went something like this:
 
-> You are given a list of characters, please return the list with commas seperating each element. do not leave a trailing comma.
+<pre>You are given a list of characters, return the list with commas seperating each element. Do not leave a trailing comma.
+</pre>
 
-There may have been language restrictions or something, honestly I wasn't paying a huge amount of attention, but it got me thinking about my honest answer to that, and here is what I came up with.
+There might’ve been some language constraints or something — honestly, I wasn’t paying that much attention — but it got me thinking about what my honest answer would be. Here’s what I came up with:
 
 In Haskell,
 
@@ -25,33 +26,33 @@ answer :: [Char] -> [Char]
 answer x = join' x $ []
 ```
 
-For people who don’t know haskell, heres a quick run down of the important parts.
+For those unfamiliar with Haskell, here's a quick run down of the important parts.
 
-The function will look at the first character in the list, and partially apply it to the prepend function :
+The function will look at the first character in the list, and partially apply it to the prepend function `:`
 
-In haskell, you can partially apply functions, which means if you have a function taking two arguments, only give it one, and get back a new function that takes a single argument.
+In Haskell, you can partially apply functions — meaning if a function takes two arguments, you can provide just one and get back a new function that takes the remaining argument.
 
-In the case of prepend, `x:` is a function that will take another list, and return that list prepended with `x`, ie
+In the case of prepend, `x:` is a function that will take another list, and return that list prepended with `x`, ie.
 
 `'a' : ['b', 'c', 'd'] == "abcd" == ['a', 'b', 'c', 'd']`
 
-We then compose that function with one of two functions returned by dropLast, dependending on whether `x` is the last character in the list.
+We then compose that function with one of two functions returned by `dropLast`, dependending on whether `x` is the last character in the list.
 
-Composing is done with `.`, and simply is a way to chain functions together. ie:
+Composing is done with `.`, and is a way to chain functions together. ie:
 
 `(f . g)(x) == f(g(x))`
 
-If the character we’re looking at isn’t the last, then we add another prepend for a comma. If it is the last, we add the `id` function into the mix, which just returns the input unchanged.
+If the character we're examining isn't the last one, we prepend a comma. If *it is* the last, we use the `id` function instead, which simply returns its input unchanged.
 
-After that we recurse with the tail of the list.
+After that, we recursively call the function with the tail of the list.
 
-At the end of this we aren’t given a comma seperated list like you’d think, we’re given a function. for the input "abcd" our function is something like:
+At the end of this, we don’t get a comma-separated list like you might expect — instead, we end up with a function. For the input `"abcd"`, the resulting function looks something like this:
 
 `'a' : ',' : 'b' : ',' : 'c' : ',' : 'd' : id`
 
-Which is a function that takes a list of characters, and returns a list of characters. to get our answer we need to give this function an argument, and the argument we want is an empty list.
+Which is a function that takes a list of characters, and returns a list of characters. To get our answer we need to give this function an argument, and the argument we want is an empty list.
 
-The steps this function goes through build up the list from the back, prepending one character at a time, until we get our answer:
+This function works by building the list from the back, prepending one character at a time through each step, until we arrive at the final result:
 
 `"a,b,c,d"`
 
