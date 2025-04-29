@@ -1,7 +1,7 @@
 ---
 title: NFDs
 date: '2023-04-12'
-tags:
+tags: []
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---

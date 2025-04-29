@@ -1,7 +1,7 @@
 ---
 title: Evolution of Fibonacci
 date: '2020-07-13'
-tags: [competitive-programming]
+tags: [cp-notes]
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---

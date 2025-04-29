@@ -3,7 +3,7 @@ title: Kruskals Greedy Algorithm for MST
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2019-06-04'
-tags: [competitive-programming]
+tags: [cp-notes]
 ---
 
 The code that follows was already written before. To do it, I created a straightforward linked list + insert using a queued linked list and then sorting it was my original plan, but it seemed to be overcomplicated.

@@ -3,12 +3,12 @@ title: 00xx const
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2020-06-17'
-tags: [competitive-programming]
+tags: [cp-notes]
 ---
 
 I want to compare five things: `char ** a;` `const char ** b;` `char * const * c;` `const char * const * d; const char * const * const e;`
 
-Haha, what are these things? Explained with 5 small programs. Skip to the end of the post for a better explanation.
+What are these things? Explained with 5 small programs. Skip to the end of the post for a better explanation.
 
 ```c
 #include<iostream>

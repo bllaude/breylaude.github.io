@@ -1,7 +1,7 @@
 ---
 title: Starlink vs Fibre vs 4G/5G vs Copper
 date: '2025-02-06'
-tags: [connectivity]
+tags:
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---
