@@ -1,7 +1,7 @@
 ---
-title: Normal Form Designators
+title: NFDs
 date: '2023-04-12'
-tags: [programming]
+tags:
 description: 
 permalink: posts/{{ title | slug }}/index.html
 ---
