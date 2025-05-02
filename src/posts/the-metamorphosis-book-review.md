@@ -1,14 +1,14 @@
 ---
-title: Kafka's The Metamorphosis
+title: 'Kafka's The Metamorphosis'
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-05-01'
 tags: []
 ---
 
-I first read The Metamorphosis because my friend said I should. That’s usually not a good reason to read something, but I’m glad I did. And I'm thinking a lot about absurdism lately. Not the Camus-style *“life is meaningless and that’s the point”* version, but something more practical. The kind you feel when you wake up, scroll through your feeds, then go make breadfast. Your brain is toggling between climate collapse, genocide, job applications, and that one email you keep forgetting to answer. The world is ridiculous. But it’s a familiar kind of ridiculous. So you keep moving.
+I first read The Metamorphosis because my friend said I should. That’s usually not a good reason to read something, but I’m glad I did. And I'm thinking a lot about absurdism lately. Not the Camus-style *“life is meaningless and that’s the point”* version, but something more practical. The kind you feel when you wake up, scroll through your feeds, then go make breakfast. Your brain is toggling between economic collapse, genocide, job applications, and that one email you keep forgetting to answer. The world is ridiculous. But it’s a familiar kind of ridiculous. So you keep moving.
 
-That’s also the emotional architecture of The Metamorphosis by Franz Kafka.
+That’s also the emotional architecture of **The Metamorphosis** by Franz Kafka.
 
 It begins with one of the most famous openings in literature, and it doesn’t bother to ease you in:
 
