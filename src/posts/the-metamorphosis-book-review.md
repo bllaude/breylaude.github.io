@@ -1,5 +1,5 @@
 ---
-title: 'Kafka's The Metamorphosis'
+title: "Kafka's The Metamorphosis"
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-05-01'
