@@ -1,5 +1,5 @@
 ---
-title: Kafkas The Metamorphosis
+title: The Metamorphosis by Franz Kafka
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-05-01'
