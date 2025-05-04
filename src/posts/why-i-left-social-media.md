@@ -20,7 +20,7 @@ At first, I blamed Facebook. I don't wanna talk much about Facebook. I moved to 
 
 Point is - each of these platforms promised the same thing: a better, healthier digital space. And unfortunately, each one failed in the same way.
 
-Because it turns out the problem wasn’t the app. The problem was the concept itself — social media as a system, as I call it (SMaS). The frictionless connection, engineered full-scale, monetized through attention, powered by surveillance. Basically a place where everything is seen, but almost nothing is understood, sadly. The more you use it, the worse you feel. At least to me, I have huge opinion about this,
+Because it turns out the problem wasn’t the app. The problem was the concept itself — social media as a system, as I call it (SMaS). The frictionless connection, engineered full-scale, monetized through attention, powered by surveillance. Basically a place where everything is seen, but almost nothing is understood, sadly. The more you use it, the worse you feel. At least to me.
 
 ### You're Not the User, You're the Product
 Every social media platform sells itself as a community. But it's more likely a casino. You go in thinking you’re there to connect with people. But the longer you stay, the more you realize it's the house that always wins — and you’re not holding the cards.
