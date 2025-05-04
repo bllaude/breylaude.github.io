@@ -32,8 +32,6 @@ That data isn’t passive. It’s used to engineer your behavior. Not in some sc
 ### Everyone is a Performer
 It took me a long time to admit it, it wasn’t that people are faking. It’s just that when you know you're being watched, you start shaping your thoughts to suit the audience. It almost reaches the definition of *"faking"* itself but, as I prefer being kinder and being more understanding nowadays, I'd call it *"people pleasing"* - which sounds a litte bit more tolerable, and easier to cure.
 
-Worse is when you arrive to the point where you create your VERY own imaginary audience. I mean, I'm on a very edgy headspace at the moment, I'll discuss this at a later time. No hate.
-
 I mean, you post/repost something funny, and check back every minute for the reactions. You post something aesthetic, you check every minute for comments. You share an article, and watch for the smart replies. Vent about something, and immediately regret it when it doesn’t land. You start looking at everything through whether it’s postable. Batshit crazy.
 
 Social media turns your interior monologue into a product. Your thoughts become content. And over time, you lose something. Something subtle, but vital for humanity, IMO: 
