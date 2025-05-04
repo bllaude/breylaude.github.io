@@ -8,7 +8,7 @@ permalink: posts/{{ title | slug }}/index.html
 
 It’s weird how long it took me to leave, fucking unbelievable.
 
-Not because I liked it. I didn't have a choice. Not really. But because it had turned itself into the fabric of things. From messaging to checking events, keeping track of people from high school I barely remembered or cared about. Little social habits that didn’t seem worth breaking actually.
+Not because I liked it. I didn't have a choice. Not really. But because it had turned itself into the fabric of things. From messaging to checking events, keeping track of people from high school I barely remembered or cared about. Little social habits that didn’t seem worth breaking.
 
 I didn’t leave because of another privacy breach. Not even after the weird headlines about internal memos justifying growth at all costs. Those things are unsettling, oui. But I kept scrolling. I rationalized, like most people do. It’s just a fucking website. It’s how I stay in touch. I’ll just tweak my privacy settings.
 
