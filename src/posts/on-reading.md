@@ -2,7 +2,7 @@
 title: On reading
 description: 
 permalink: posts/{{ title | slug }}/index.html
-date: '2025-05-10'
+date: '2025-05-8'
 tags: []
 ---
 
