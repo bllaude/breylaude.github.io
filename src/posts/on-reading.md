@@ -6,7 +6,8 @@ date: '2025-05-8'
 tags: []
 ---
 
-> “If you haven’t read hundreds of books, you are functionally illiterate. You will be incompetent because your personal experiences alone aren’t broad enough to sustain you.”<br> — General Jim Mattis
+> “If you haven’t read hundreds of books, you are functionally illiterate. You will be incompetent because your personal experiences alone aren’t broad enough to sustain you.” 
+— General Jim Mattis
 
 That hits hard. Not because I think people should read more books (though they should), but because it made me realize how little of the world we actually get to touch.
 
