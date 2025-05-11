@@ -6,27 +6,23 @@ date: '2025-05-8'
 tags: []
 ---
 
-> “If you haven’t read hundreds of books, you are functionally illiterate. You will be incompetent because your personal experiences alone aren’t broad enough to sustain you.”
-— General Jim Mattis
+> “If you haven’t read hundreds of books, you are functionally illiterate. You will be incompetent because your personal experiences alone aren’t broad enough to sustain you.”<br> — General Jim Mattis
 
 That hits hard. Not because I think people should read more books (though they should), but because it made me realize how little of the world we actually get to touch.
 
 People grow up, go to school, and get jobs. Maybe travel a bit and most likely meet people outside their bubble. But even if we stretch as much as we can, our own lives are tiny slivers of everything that’s out there. We don't live enough to know enough.
 
-Books fix that.
-
-Books are time machines. When you read, you're not just collecting facts — you’re inhabiting another mind. That sounds kind of weird, but it’s not. It’s just code. A writer encodes thought into language, and if you’re paying attention, you decode it and run it on your own brain.
-
-Which is wild.
+When you read, you're not just collecting facts — you’re inhabiting another mind. That sounds kind of weird, but it’s not. It’s just code. A writer encodes thought into language, and if you’re paying attention, you decode it and run it on your own brain.
 
 You don’t need a philosophy degree to study Kant. You don’t need to be a soldier to understand war. You just need to read.
 
 I mean, if I only have a few minutes with someone smarter than me, I don’t ask them to explain something. I ask them what to read. 
 
 > “If you only have some minutes with a subject-expert, don’t ask him a question — ask for a book recommendation instead.”
-(Often attributed to Naval Ravikant, though I’ve heard variations from others.)
 
-**"A question gives you an answer. A book gives you a thousand."**
+*(Often attributed to Naval Ravikant, though I’ve heard variations from others.)*
+
+> *"A question gives you an answer. A book gives you a thousand."*
 
 Most people think reading is some academic thing. Like it’s a hobby for introverts, or a luxury you don’t have time for. But it’s not. It’s infrastructure.
 
