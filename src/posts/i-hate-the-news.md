@@ -6,33 +6,33 @@ description:
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Some people start their day with the radio. Others wind down with the evening news. Some mindlessly scroll through social media, while others stay *“informed”* by watching YouTube channels like CNN. There are even those who get breaking news alerts blasted straight to their phones like it’s some ritual. And they all seem to agree that keeping up with the news is every citizen’s solemn duty. Everyone, except for me.
+Some people turn on the radio first thing in morning. Others collapse with the evening news. While some mindlessly flip through social media, others remain *"informed"* by viewing CNN and other Youtube channels. Even some people get breaking news alerts sent directly to their phones as part of some ritual. And they all seem to agree that every citizen has a serious obligation to keep current with the news. Everyone—except from me.
 
-Some people kind of share my view — at least halfway. They’ll bash cable news for its obsession with gruesome crimes, its horse-race political bullshit, and its endless stream of PR-flavored garbage. But they still think the system can be fixed. Hell no. Honestly, I don’t think there’s anything left worth saving.
+At least halfway, some people sort of agree with me. They will criticize cable news for its obsession with graphic crimes, its horse-race political sloppiness, and its never-ending flow of PR-flavored trash. They still believe the system can be corrected though. Hell NO. To be honest, I don't see anything left worth saving.
 
-Take today’s New York Times. There's a chart showing a spike in abortions in 2024. Some blip about diplomatic maneuvering. Stocks going down the drain. China's economic stats. Hollywood actors getting a new contract deal.
+Pick today's New York Times. A chart displaying a rise in abortions in 2024 Some blips on diplomatic wriggling. Stocks flowing down the drain. China's economic data. Actors in Hollywood signing a new contract agreement.
 
-None of this shit touches my life. Sure, reading it might be enjoyable, but it’s a pointless enjoyable — a nice, smooth, stupid waste of time. It doesn’t change a damn thing I do.
+None of this shit touches my life. It may be fun to read, but it's a pointless pleasure, a nice, easy, stupid waste of time. It has no bearing whatsoever on what I do.
 
-Most people will nod at this and say, *“Okay, fine, but there’s still virtue in knowing.”* Like somehow, being constantly plugged into the news stream makes you a better citizen. They’ll preach about newspapers holding power to account—keeping the bastards in check.
+At this point, the majority of people will nod and say, *"Okay, fine, but there's still virtue in knowing."* As if being continuously informed about current events somehow makes you a better citizen. They'll preach about newspapers holding the power to account - keeping bastards in check.
 
-Maybe that’s technically true. But funny thing is I’m never involved. The government fucks up, the news screams about it, people rage-tweet, the government mutters an apology, and then—surprise—they keep doing the same shady shit, just a bit more sneakily. Sure, it’s a cycle. Maybe even a useful one. But, It would probably still work just fine even if no one read a goddamn word of it. It’s a self-sustaining machine.
+Technically, that might be the case. The irony is that I never get involved. The government fucks up, the news screams about it, people rage-tweet, the government mutters an apology, and then—surprise—they keep doing the same shady shit, just a bit more sneakily. Yes, there is a cycle. Perhaps even a practical one. But even if no one read a goddamn word of it, it would probably still function perfectly. It is a self-sufficient machine.
 
-And then there’s voting. But being an informed voter doesn’t mean marinating in political drama every fucking day. All you need is a decent voter guide before the election — one that lays out the issues without the noise. No whiplash-inducing scandals, no endless loops of lies and rebuttals. You actually get to think.
+Voting comes next. However, being an informed voter does not entail immersing oneself in political drama on a daily basis. Before the election, all you need is a good voter guide that explains the issues without being overly dramatic. No interminable cycles of lies and rebuttals, no scandals that cause whiplash. You get to think, really.
 
 Some people argue, *“But sometimes a news story really changes your life.”* Come on. I mean, how often does that actually happen? The big shifts in life come from deep reading, long essays, thoughtful books — not some 800-word panic piece written under deadline.
 
-Which brings me to another kind of half-agreement: TV critics making fun of the news cycle. You’ve probably heard the it: *“Unconfirmed reports say—Wait! This just in! Those reports are false! No, wait—we’ve got confirmation denying the denial of the original unconfirmed report.”* Yeah, we all laugh. But they still think the solution is just better timing. Like, *“Just wait until it’s confirmed, then run the damn story.”*
+This leads me to another type of half-agreement: the mocking of the news cycle by TV critics. *"Unconfirmed reports say—Wait! This has just arrived! They are not true reports! No, hold on, we have proof that refutes the original unverified report.* We all laugh. However, they continue to believe that better timing is the answer. For example, *"Just wait until it's confirmed, then run the damn story."*
 
-Okay, but why stop there? If updates every five minutes are dumb, why not get the news once a day? Or once a week? Or better yet, once a year? Seriously — you wouldn't miss it.
+All right, but why end there? Why not receive the news once a day if five-minute updates are pointless? Or once every seven days? Better yet, once a year? You wouldn't miss it, I promise.
 
-With the time people waste glued to the goddamn news, they could be reading actual books — getting more depth, more clarity, more meaning. But no, they don’t. Because most of that content is irrelevant trash, and deep down, they know it.
+People could read real books instead of wasting their time watching the news, which would provide them with greater depth, clarity, and meaning. But, they don't. Because deep down, they know that the majority of that content is irrelevant .
 
-And here’s the part people are most indenial: following the news isn’t just a waste of time. [It’s bad for your brain](https://www.apa.org/monitor/2022/11/strain-media-overload). Some guy once said reading the New York Times in the morning scrambled his mind so badly he couldn’t do any serious thinking for the rest of the day. 
+The part that people deny the most is that keeping up with the news isn't a waste of time. [It's bad for your brain](https://www.apa.org/monitor/2022/11/strain-media-overload). One man claimed that reading the New York Times first thing in the morning caused his mind to become so jumbled that he was unable to think clearly for the remainder of the day. 
 
-The news’s obsession with cramming in every damn topic with zero depth leads to a tidalwave of inaccuracy. Just flip to the corrections page — it’s a graveyard of screw-ups. And if you’ve ever been in a news story yourself, you already know: they get it wrong. Always. Their constant crime porn makes us paranoid. The breathless urgency kills reflection. The shallow coverage? It makes us shallow too.
+A tidal wave of inaccuracy results from the news's obsession with covering every damn topic in a shallow manner. Go to the corrections page; it's a cemetery of mistakes. And you already know that they make a mistake if you have ever been featured in a news story yourself. We become paranoid because of their continuous crime porn. Reflection is killed by the breathless urgency. The shallow coverage? It also makes us shallow.
 
-This isn’t just another armchair psychology bullshit — I mean it. I haven’t followed the news since I was 19, except for the rare dip into a topic that actually matters to me. And I’m better for it. Calmer. Clearer. More focused. But I rarely find anyone with the guts to do the same. Most people are too scared to tune out. But maybe well they should.
+I mean it when I say that this isn't just another piece of cocky psychology nonsense. With the exception of the occasional foray into a subject that truly interests me, I haven't kept up with the news since I was 19. And I've improved as a result. Relax. clearer. more concentrated. However, I hardly ever come across someone who has the courage to follow suit. Most people are too afraid to pay attention.
 
 *“Fuck it, I’m out.”*
 
