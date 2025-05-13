@@ -25,9 +25,9 @@ I mean, if I only have a few minutes with someone smarter than me, I don’t ask
 
 > *"A question gives you an answer. A book gives you a thousand."*
 
-Most people think reading is some academic thing. Like it’s a hobby for introverts, or a luxury you don’t have time for. But it’s not. It’s infrastructure.
+The majority of people believe that reading is an academic thing. A luxury you don't have time for, or an introverted pastime. But it isn't. It's the infrastructure.
 
-If you want to do important work — if you want to build, create, understand, fight, fix — you need scaffolding. And that scaffolding isn’t just your own. It’s the stories of a hundred others who came before you. Their experiments, mistakes, weird, brilliant mental models.
+Scaffolding is necessary for important work, such as building, creating, understanding, fighting, and fixing. It's not just your scaffolding, either. It's the tales of a hundred people who came before you. Their experiments, errors, and strange, clever mental models.
 
 Books are how you build a cognitive exoskeleton.**¹**
 
