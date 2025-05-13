@@ -1,5 +1,5 @@
 ---
-title: "Book Review: Aldous Huxley\'s The Doors of Perception"
+title: "Book Review: The Doors of Perception by Aldous Huxley"
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-05-12'
