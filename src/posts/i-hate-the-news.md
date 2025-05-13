@@ -1,5 +1,5 @@
 ---
-title: I hate the news
+title: I Hate the News
 date: '2025-04-13'
 tags: []
 description: 
