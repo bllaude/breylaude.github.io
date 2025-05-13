@@ -1,5 +1,5 @@
 ---
-title: "On Camus' The Fall"
+title: "Book Review: The Fall (Camus Novel)"
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-05-09'
