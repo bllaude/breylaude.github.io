@@ -6,13 +6,13 @@ description:
 permalink: posts/{{ title | slug }}/index.html
 ---
 
-Some people turn on the radio first thing in morning. Others collapse with the evening news. While some mindlessly flip through social media, others remain *"informed"* by viewing CNN and other Youtube channels. Even some people get breaking news alerts sent directly to their phones as part of some ritual. And they all seem to agree that every citizen has a serious obligation to keep current with the news. Everyone—except from me.
+Some people turn on the radio first thing in morning. Others collapse with the evening news. While some mindlessly scroll through social media, others remain *"informed"* by viewing CNN and other Youtube channels. Even some people get breaking news alerts sent directly to their phones as part of some ritual. And they all seem to agree that every citizen has a serious obligation to keep current with the news. Everyone — except from me.
 
 At least halfway, some people sort of agree with me. They will criticize cable news for its obsession with graphic crimes, its horse-race political sloppiness, and its never-ending flow of PR-flavored trash. They still believe the system can be corrected though. Hell NO. To be honest, I don't see anything left worth saving.
 
-Pick today's New York Times. A chart displaying a rise in abortions in 2024 Some blips on diplomatic wriggling. Stocks flowing down the drain. China's economic data. Actors in Hollywood signing a new contract agreement.
+Pick today's New York Times. A chart displaying a rise in abortions in 2024. Some blips on diplomatic wriggling. Stocks flowing down. China's economic data. Actors in Hollywood signing a new contract agreement.
 
-None of this shit touches my life. It may be fun to read, but it's a pointless pleasure, a nice, easy, stupid waste of time. It has no bearing whatsoever on what I do.
+None of this shit touches my life. It may be fun to read, but it's a pointless fun, a nice, easy, stupid waste of time. It has no bearing whatsoever on what I do.
 
 At this point, the majority of people will nod and say, *"Okay, fine, but there's still virtue in knowing."* As if being continuously informed about current events somehow makes you a better citizen. They'll preach about newspapers holding the power to account - keeping bastards in check.
 
