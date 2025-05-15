@@ -109,6 +109,6 @@ class Solution:
 ```
 
 ### Time Complexity
-Matrix exponentiation: `O(26^3 * log t) ≈ constant time since 26 is fixed
+Matrix exponentiation: `O(26^3 * log t)` ≈ constant time since 26 is fixed
 
 Total: `O(log t)` — very efficient!
