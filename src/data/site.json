@@ -1,29 +1,39 @@
 {
   "name": "Reasonable Performance",
-  "description": "Brey Laude's website",
-  "url": "https://blog.breylaude.com",
+  "description": "Brey Laude | Personal Website",
+  "url": "https://breylaude.com",
   "author": {
     "name": "Brey Laude",
     "email": "laude822@gmail.com",
-    "twitterHandle": "@breylaude"
+    "twitterHandle": "BreyLaude"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "All Posts",
+      "text": "Blog",
       "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
       "external": false
     }
   ],
   "socialLinks": [
     {
-      "text": "GitHub",
-      "url": "https://github.com/breylaude",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/blaude/",
       "external": true
     },
     {
-      "text": "X",
-      "url": "https://x.com/breylaude",
+      "text": "GitHub",
+      "url": "https://github.com/breylaude/",
+      "external": true
+    },
+    {
+      "text": "infosec.exchange",
+      "url": "https://infosec.exchange/@breylaude",
       "external": true
     }
   ],
