@@ -3,7 +3,7 @@ title: The age of fools with contacts
 description: 
 permalink: posts/{{ title | slug }}/index.html
 date: '2025-12-27'
-tags: []
+tags: [Administrativia]
 ---
 
 In these times it seems that any idiot with a laptop and wifi is able to create to a blog or a website and sell their miraculous recipes 2.0 to get out of the crisis, each more radical and more neocon, forgetting the deep diagnosis of the crisis, this it is, the great Iberian disease, the pandemic of institutionalized stupidity and nepotism.
